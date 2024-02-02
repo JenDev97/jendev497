@@ -12,7 +12,4 @@ Now I'm learning web development.
 
 #### Some of my stacks include:
 
-<img src="/technologies/html5.svg" alt="HTML5" width="100" height="100">
-<img src="/technologies/css3.svg" alt="CSS3" width="100" height="100">
-<img src="/technologies/visual-studio-team-services-git-repository.svg" alt="Visual Studio Team Services Git Repository" width="100" height="100">
-<img src="/technologies/github.svg" alt="GitHub" width="100" height="100">
+| <img src="/technologies/html5.svg" alt="HTML5" width="50" height="50"> | <img src="/technologies/css3.svg" alt="CSS3" width="50" height="50"> | <img src="/technologies/visual-studio-team-services-git-repository.svg" alt="Visual Studio Team Services Git Repository" width="50" height="50"> | <img src="/technologies/github.svg" alt="GitHub" width="50" height="50"> |
