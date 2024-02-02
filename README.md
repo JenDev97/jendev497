@@ -2,13 +2,21 @@
 
 ## I am self-taught and currently learning programming 👩‍💻.
 
-I'm from Mexico 🇲🇽 and of course, I love tacos 🌮. Just like many other programmers, I also love cats 🐈 (<span style="font-size: small;">_The internet is controlled by them_</span>).
+#### I am from Mexico 🇲🇽 <small>btw i like tacos 🌮</small>, I always like to learn something new.
 
-> ⚡ Fun fact: I am left-handed 🫲
+From my early years, I discovered the fascination of shaping my surroundings, of transforming the existing into something more. My interest in programming was born from this same creative need and the quest for personalized and minimalist solutions.
+
+⚡️ Fun facts:
+I am left-handed 🫲
+I really like miniatures 🎨
+Minimalist 🌿
+I love Japan 🏯🇯🇵
+
+##### Just like many other programmers, I also love cats 🐈 (<span style="font-size: small;">_The internet is controlled by them_</span>).
 
 ---
 
-Now I'm learning web development.
+🌱 I’m currently learning web development.
 
 #### Some of my stacks include:
 
