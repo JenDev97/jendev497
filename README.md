@@ -11,3 +11,8 @@ I'm from Mexico 🇲🇽 and of course, I love tacos 🌮. Just like many other 
 Now I'm learning web development.
 
 #### Some of my stacks include:
+
+![](/technologies/html5.svg)
+![](/technologies/css3.svg)
+![](/technologies/visual-studio-team-services-git-repository.svg)
+![](/technologies/github.svg)
