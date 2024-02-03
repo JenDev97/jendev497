@@ -24,3 +24,7 @@ I love Japan 🏯🇯🇵
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=transparent)](https://simpleicons.org/icons/css3)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=transparent)](https://simpleicons.org/icons/git)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=transparent)](https://simpleicons.org/icons/github)
+![Tools](https://img.shields.io/badge/Tools-Terminal-informational?style=flat&logoColor=white&color=2bbc8a)
+![Editor](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logoColor=white&color=blue)
+![Methodology](https://img.shields.io/badge/Methodology-BEM-informational?style=flat&logoColor=white&color=orange)
+[![Fluid Design](https://img.shields.io/badge/Fluid%20Design-b19cd9?style=flat&logoColor=white)](https://img.shields.io/badge/Fluid%20Design-b19cd9?style=flat&logoColor=white)
