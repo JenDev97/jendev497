@@ -1,8 +1,9 @@
-### Hey there, I'm Jennifer Guerra 👋🏼
+### Hey there 👋🏼
 
 ## I am self-taught and currently learning programming 👩‍💻.
 
-#### I am from Mexico 🇲🇽 <small>btw i like tacos 🌮</small>, I always like to learn something new.
+#### I am from Mexico 🇲🇽🌮
+    I always like to learn something new.
 
 From my early years, I discovered the fascination of shaping my surroundings, of transforming the existing into something more. My interest in programming was born from this same creative need and the quest for personalized and minimalist solutions.
 
