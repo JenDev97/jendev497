@@ -6,8 +6,7 @@
 * I am from Mexico 🇲🇽🌮
 * I enjoy productivity 🎯
 * Minimalist 🌿
-* Recently, I discovered my interest in programming, although I've been fascinated with shaping my surroundings since early childhood, transforming the existing into something more. My journey into programming stems from this same creative need and the quest for personalized and minimalist solutions.
-* I enjoy to learn something new everyday. 🚀
+* I like to learn something new everyday. **Kaizen**  🚀
 
 
 ---
@@ -25,23 +24,15 @@
 [![Fluid Design](https://img.shields.io/badge/Fluid%20Design-b19cd9?style=flat&logoColor=white)](https://img.shields.io/badge/Fluid%20Design-b19cd9?style=flat&logoColor=white)
 
 <details>
-  <summary>⚒️ Things I use to get stuff done</summary>
+  <summary>⚡️ Fun facts</summary>
   	<ul>
-	    <li><b>Laptop: Macbook Air M1</li>
-	    <li><b>Terminal: &nbsp; <a href="https://app.warp.dev/referral/5MVWPQ">Warp</a> &nbsp;- The best terminal out there</li>
-	    <li><b>Code Editor: VSCode - The best editor out there</li>
- 	    <li><b>Other Tools: &nbsp; <a href="https://github.com/logseq/logseq">Logseq</a>&nbsp;(PKM), Things (Task management)</li>
+	    <li><b>I am left-handed 🫲</li>
+	    <li><b>I really like miniatures 🎨</li>
+	    <li><b>I love Japan 🏯🇯🇵</li>
 	</ul>
 </details>
             
-<details>
-  <summary>⚡️ Fun facts</summary>
-    <ul>
-        <li>I am left-handed 🫲</li>
-        <li>I really like miniatures 🎨</li>
-        <li>I love Japan 🏯🇯🇵</li>
-    </ul>
-</details>
+
 
 
 ##### Just like many other programmers, I also love cats 🐈 (<span style="font-size: small;">_The internet is controlled by them_</span>).
