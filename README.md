@@ -5,7 +5,7 @@
 - I am from Mexico 🇲🇽🌮
 - I enjoy productivity 🎯
 - Minimalist 🌿
-- I like to learn something new everyday. **Kaizen** 🚀
+- I love to learn something new everyday. **Kaizen** 🚀
 
 ---
 
